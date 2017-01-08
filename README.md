@@ -8,10 +8,9 @@ Webanwendung für eine parameterisierbare Bauanleitung.
 * Farben
 * Anzahl Fächer
 
-## PDF-Ausgabe
-- [x] Stückliste der Bauteile mit Maße
-- [x] Größe der Flächen der unterschieldlichen Farben.
-
-## Bauanleitung
-
-## Beispielbilder
+## Ausgabe
+* PDF-Datei
+  - [x] Stückliste der Bauteile mit Maße
+  - [x] Größe der Flächen der unterschieldlichen Farben.
+* Bauanleitung
+* Beispielbilder
