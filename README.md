@@ -1,4 +1,4 @@
 # Sinus Regal
-Webanwendung für eine parameterisierbaren Bauanleitung.
+Webanwendung für eine parameterisierbare Bauanleitung.
 
 ![Beispielbild](/img/IMG_1180.jpeg)
