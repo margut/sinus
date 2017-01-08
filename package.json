@@ -1,0 +1,29 @@
+{
+  "name": "SINUS",
+  "description": "Sinus Regal",
+  "version": "0.0.1",
+  "private": true,
+  "author": "M. Gutbrod",
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "semistandard": {
+    "globals": [
+      "after",
+      "afterEach",
+      "before",
+      "beforeEach",
+      "describe",
+      "it"
+    ]
+  },
+  "scripts": {
+    "start": "node web.js",
+    "monitor": "nodemon web.js",
+    "deploy": "gcloud app deploy app.yaml"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "pdfkit": "^0.8.0"
+  }
+}
